@@ -1,25 +1,10 @@
-### 📊 My GitHub Dashboard
+### 📊 CONTRIBUTIONS
 
+<!-- Top Row: Profile Summary Area Chart -->
 ![](./profile-summary-cards-output/default/0-profile-details.svg)
 
+<!-- Middle Row: Stats and Commits -->
 ![](./profile-summary-cards-output/default/1-stats.svg) ![](./profile-summary-cards-output/default/2-commit-details.svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VSumeshRam&theme=default)](https://git.io/streak-stats)  
-
-
-## Hi there 👋
-
-<!--
-**VSumeshRam/VSumeshRam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Bottom Row: Streaks -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VSumeshRam&theme=default)](https://git.io/streak-stats)
