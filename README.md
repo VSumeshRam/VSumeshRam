@@ -1,4 +1,4 @@
-### 📊 My GitHub Dashboard
+### 📊My GitHub Dashboard
 
 <!-- Top Row: Profile Summary Area Chart -->
 ![](./profile-summary-cards-output/default/0-profile-details.svg)
