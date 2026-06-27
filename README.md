@@ -1,3 +1,12 @@
+### 📊 My GitHub Dashboard
+
+![](./profile-summary-cards-output/default/0-profile-details.svg)
+
+![](./profile-summary-cards-output/default/1-stats.svg) ![](./profile-summary-cards-output/default/2-commit-details.svg)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VSumeshRam&theme=default)](https://git.io/streak-stats)  
+
+
 ## Hi there 👋
 
 <!--
